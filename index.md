@@ -1,4 +1,4 @@
-## Welcome to Basic Skill Building
+## Welcome to Skill Building for A Better Learner
 
 ### Objectives:
 - To develop research and information synthesising skill
@@ -31,21 +31,21 @@ Choose Two Questions From the Following to Answer:
 ```markdown
 Mandatory Tasks for You to Work out:
   1. What is HCI and why is it important?
-  2.
-  3.
+  2. Find three HCI examples and explain their design intentions
+  3. Take one example from the above three, res-design it using a graphics software to suit your own needs and justify your design intentions
 
 Choose Two Tasks From the Following to Work out:
-  1. 
-  2.
-  3.
+  1. Using exmaples, explain how VUI works?
+  2. What are intelligent adaptive interfaces? giving examples.
+  3. What are command/action based interfaces? giving examples.
 ``` 
 #### Task/Topic 3: Am I Seeing a Trend?
 
 ```markdown
 Mandatory Tasks for You to Work out:
-  1. Understanding the data and come up with a meaningful and relevant hypothesis
-  2. Problem-solving with data visualizations or algorithms
-  3. Spotting Data trends
+  1. Data visualizations 
+  2. Spotting Data trends using simple data analysis
+  3. Explain the given data in context and come up with a meaningful and relevant hypothesis
 
 Choose Two Tasks From the Following to Work out:
   1. 
