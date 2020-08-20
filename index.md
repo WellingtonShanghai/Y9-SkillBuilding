@@ -38,7 +38,7 @@ Choose Two Tasks From the Following to Work out:
   1. 
   2.
   3.
-  
+``` 
 #### Task/Topic 3: Am I Seeing a Trend?
 
 ```markdown
