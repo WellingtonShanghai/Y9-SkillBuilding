@@ -13,30 +13,22 @@
 - Your finished task should be well written and well organised using text and images 
 - You are expected to present your work using Word, PowerPoint, Publisher or webpages
 
-[Download this work template to guide your progress](https://digixc.github.io/Y9-SkillBuilding/doc/AI-Group-Project.docx)
+### A List of Tasks/Topics for You to Choose
+#### Task/Topic 1:
 ```markdown
-Syntax highlighted code block
+IoT - Internet of Things
+Mandatory Questions for You to Answer:
+  1. What is IoT?
+  2. Give three examples of IoT and describe their applications
+  3. Explain to your best ability the technologies used in those three examples of IoT
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Choose Two Questions From the Following to Answer:
+  1. How does each of your chosen IoT examples impact people's life?
+  2. Explain any possible disadvantages of each example
+  3. Describe and explain one new IoT you think that is feasible to invent and will positively increase people's quality of life
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digixc/Y9-BasicSkills/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Your Work Progress Track Sheet
+[Download this work template to guide your progress](https://digixc.github.io/Y9-SkillBuilding/doc/AI-Group-Project.docx)
 
 ### Support or Contact
 
