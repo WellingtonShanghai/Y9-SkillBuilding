@@ -10,7 +10,8 @@
 - You are expected to use three lessons to complete a task of your choice from a given list of tasks
 - For your chosen task, you are expected to answer 3 given mandatory questions and 2 further questions of your choice from a list of questions
 - You are expected to conduct some research, and for some tasks, some analysis of data
-- Your finished task should be presented in well written, well organised format and images using Word, PowerPoint, Publisher or webpages
+- Your finished task should be well written and well organised using text and images 
+- You are expected to present your work using Word, PowerPoint, Publisher or webpages
 
 [Download this work template to guide your progress](https://digixc.github.io/Y9-SkillBuilding/doc/AI-Group-Project.docx)
 ```markdown
