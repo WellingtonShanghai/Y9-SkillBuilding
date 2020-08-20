@@ -53,8 +53,7 @@ Choose Two Tasks From the Following to Work out:
   3.
 ```
 ### Your Work Progress Track Sheet
-[Download this work template to guide your progress](https://digixc.github.io/Y9-SkillBuilding/doc/AI-Group-Project.docx)
+[Download this work template to guide your progress]()
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
