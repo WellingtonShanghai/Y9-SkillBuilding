@@ -29,7 +29,7 @@ Choose Two Questions From the Following to Answer:
 ```
 #### Task/Topic 2: GUI - Graphic User Interface
 
-```
+```markdown
 Mandatory Tasks for You to Work out:
   1. What is GUI?
   2. Using those three commonly used computing devices Windows PCs, iOS devices, and Andriod devices, 
