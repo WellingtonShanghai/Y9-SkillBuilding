@@ -31,11 +31,11 @@ Choose Two Questions From the Following to Answer:
 ```markdown
 Mandatory Tasks for You to Work out:
   1. What is GUI?
-  2. Using those three commonly used computing devices '''Windows PCs, iOS devices, and Andriod devices''', explain their design intentions 
-  ++ why the GUIs designed that way? 
-  ++ how they different from each other? why?
-  ++ Pick one from the three GUIs, '''list of things''' you like about it and you don't like about it
-  3. You are going to '''res-design''' one of the three GUIs above using a graphics software to suit your own needs and justify your design intentions
+  2. Using those three commonly used computing devices *Windows PCs, iOS devices, and Andriod devices*, explain their design intentions 
+      * why the GUIs designed that way? 
+      * how they different from each other? why?
+      * Pick one from the three GUIs, *list of things* you like about it and you don't like about it
+  3. You are going to *res-design* one of the three GUIs above using a graphics software to suit your own needs and justify your design intentions
 
 Choose Two Tasks From the Following to Work out:
   1. Using examples, explain why GUI is important.
