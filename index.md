@@ -62,8 +62,8 @@ Choose Two Tasks From the Following to Work out:
 To help your orangise your work, use the following work progress track sheet. You can download it to your oneNote or you can access it from your ClassNote.  
 [Right Click, then Save As to download this work template to guide your progress](https://github.com/digixc/Y9-SkillBuilding/blob/gh-pages/doc/SkillBuilding_ProgressTracker.docx)
 
-### Your handin work
-You have 3 lessons to work on this.  At the end of your lessons, you will hand in the following evidence:
+### Work You Need to Hand in
+You have 3 lessons to work on this.  At the end of your lessons, you will hand in the following evidence to your ClassNote:
 + Your finished work progress track sheet
 + PowerPoint if you choose it to present your work 
 
