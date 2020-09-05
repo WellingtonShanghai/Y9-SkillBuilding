@@ -28,7 +28,7 @@ Choose Two Questions From the Following to Answer:
 ```
 #### Task/Topic 2: GUI - Graphic User Interface
 
-```markdown
+```
 Mandatory Tasks for You to Work out:
   1. What is GUI?
   2. Using those three commonly used computing devices **Windows PCs, iOS devices, and Andriod devices**, explain their design intentions 
@@ -46,7 +46,7 @@ Choose Two Tasks From the Following to Work out:
 <!-- 
 #### Task/Topic 3: Am I Seeing a Trend?
 
-```markdown
+```
 Mandatory Tasks for You to Work out:
   1. Data visualizations 
   2. Spotting Data trends using simple data analysis
