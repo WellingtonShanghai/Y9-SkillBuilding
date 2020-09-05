@@ -26,19 +26,24 @@ Choose Two Questions From the Following to Answer:
   2. Explain any possible disadvantages of each example
   3. Describe and explain one new IoT you think that is feasible to invent and will positively increase people's quality of life
 ```
-#### Task/Topic 2: HCI - Human Computer Interface
+#### Task/Topic 2: GUI - Graphic User Interface
 
 ```markdown
 Mandatory Tasks for You to Work out:
-  1. What is HCI and why is it important?
-  2. Find three HCI examples and explain their design intentions
-  3. Take one example from the above three, res-design it using a graphics software to suit your own needs and justify your design intentions
+  1. What is GUI?
+  2. Using those three commonly used computing devices '''Windows PCs, iOS devices, and Andriod devices''', explain their design intentions 
+  ++ why the GUIs designed that way? 
+  ++ how they different from each other? why?
+  ++ Pick one from the three GUIs, '''list of things''' you like about it and you don't like about it
+  3. You are going to '''res-design''' one of the three GUIs above using a graphics software to suit your own needs and justify your design intentions
 
 Choose Two Tasks From the Following to Work out:
-  1. Using exmaples, explain how VUI works?
-  2. What are intelligent adaptive interfaces? giving examples.
+  1. Using examples, explain why GUI is important.
+  2. Explain how GUIs can help people with special needs.
   3. What are command/action based interfaces? giving examples.
+
 ``` 
+<!-- 
 #### Task/Topic 3: Am I Seeing a Trend?
 
 ```markdown
@@ -52,7 +57,9 @@ Choose Two Tasks From the Following to Work out:
   2.
   3.
 ```
+-->
 ### Your Work Progress Track Sheet
+To help your orangise your work, use the following work progress track sheet. You can download it to your oneNote or you can access it from your ClassNote.  
 [Right Click, then Save As to download this work template to guide your progress](https://github.com/digixc/Y9-SkillBuilding/blob/gh-pages/doc/SkillBuilding_ProgressTracker.docx)
 
 
