@@ -46,8 +46,8 @@ Choose Two Tasks From the Following to Work out:
   3. What are command/action based interfaces? giving examples.
 
 ``` 
-<!-- 
-#### Task/Topic 3: Am I Seeing a Trend?
+
+#### Task/Topic 3: Am I Seeing a Pattern?
 
 ```
 Mandatory Tasks for You to Work out:
@@ -55,12 +55,9 @@ Mandatory Tasks for You to Work out:
   2. Spotting Data trends using simple data analysis
   3. Explain the given data in context and come up with a meaningful and relevant hypothesis
 
-Choose Two Tasks From the Following to Work out:
-  1. 
-  2.
-  3.
+Detailed tasks about this topic is explained in the spreadsheet on class Notebook, Unit 0 section.
 ```
--->
+
 ### Your Work Progress Track Sheet
 To help your orangise your work, use the work progress track sheet located in your class Notebook. 
 <!-- 
