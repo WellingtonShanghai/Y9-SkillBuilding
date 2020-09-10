@@ -65,7 +65,7 @@ To help your orangise your work, use the work progress track sheet located in yo
 -->
 
 ### Work You Need to Hand in
-You have 3 lessons to work on this.  At the end of your lessons, you will hand in the following evidence to your ClassNote:
+You have 3 lessons to work on this.  At the end of your lessons, you will hand in the following evidence the relevant assignment on Teams:
 + Your finished work progress track sheet
 + Presentation of your finished work 
 
