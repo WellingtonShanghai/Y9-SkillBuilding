@@ -55,8 +55,9 @@ Mandatory Tasks for You to Work out:
   2. Spotting Data trends using simple data analysis
   3. Explain the given data in context and come up with a meaningful and relevant hypothesis
 
-Detailed tasks about this topic is explained in the spreadsheet on class Notebook, Unit 0 section.[Click here to go to Data file for Task 3](https://wcishanghai.sharepoint.com/teams/2020Y9CS/_layouts/15/Doc.aspx?sourcedoc={daaa9799-b7e7-411e-9f2a-a6eb7b13a084}&action=edit&wd=target%28_Content%20Library%2F2.%20Digital%20Skills.one%7Ce55e2623-d056-4321-a85c-72f786187fea%2F%29&wdorigin=717)
+Detailed tasks about this topic is explained in the spreadsheet on class Notebook, Unit 0 section. Follow the link below.
 ```
+[Click here to go to data file for Task 3](https://wcishanghai.sharepoint.com/teams/2020Y9CS/_layouts/15/Doc.aspx?sourcedoc={daaa9799-b7e7-411e-9f2a-a6eb7b13a084}&action=edit&wd=target%28_Content%20Library%2F2.%20Digital%20Skills.one%7Ce55e2623-d056-4321-a85c-72f786187fea%2F%29&wdorigin=717)
 
 
 ### Your Work Progress Track Sheet
