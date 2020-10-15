@@ -37,7 +37,7 @@ Mandatory Tasks for You to Work out:
       * why the GUIs designed that way? 
       * how they different from each other? why?
       * Pick one from the three GUIs, *list of things* you like about it and you don't like about it
-  3. You are going to *res-design* one of the three GUIs above using a graphics software to 
+  3. You are going to *re-design* one of the three GUIs above using a graphics software to 
   suit your own needs and justify your design intentions
 
 Choose Two Tasks From the Following to Work out:
